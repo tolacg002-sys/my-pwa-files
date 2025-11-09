@@ -1,7 +1,7 @@
 {
   "name": "CalendarPro.site",
   "short_name": "CalendarPro",
-  "description": "Global calendar website showing public holidays and national events for 60+ countries.",
+  "description": "Global calendar website showing public holidays and national events for 60+ countries. ",
   "start_url": "https://calendarpro.site/?utm_source=pwa",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -18,4 +18,5 @@
       "type": "image/png"
     }
   ]
+
 }
